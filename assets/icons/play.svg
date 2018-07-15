@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Component/Icon/Play</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Component/Icon/Play" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M3,2.01303691 L3,13.9855288 C3,14.5378135 3.44771525,14.9855288 4,14.9855288 C4.19694444,14.9855288 4.38950418,14.9273746 4.55352582,14.8183608 L13.5603998,8.83211487 C14.0203603,8.526411 14.1454099,7.90571746 13.839706,7.44575703 C13.7661005,7.33501052 13.6711464,7.24005638 13.5603998,7.16645083 L4.55352582,1.18020489 C4.09356539,0.874501025 3.47287185,0.999550672 3.16716798,1.45951109 C3.05815415,1.62353273 3,1.81609247 3,2.01303691 Z" id="Path-3" fill="#FFFFFF"></path>
+    </g>
+</svg>
